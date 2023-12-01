@@ -7,4 +7,4 @@
 1) Install npm init.<br/>
 2) Install npm package Inquirer & qr-image<br/>3)Run the node index.js file.
 ## Output 
-./qr_image.png
+![qr_image](https://github.com/ar7937/QR-Generator/assets/83566191/148ef605-2e49-4142-b9f2-0eae73245848)
